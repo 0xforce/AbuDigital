@@ -208,11 +208,12 @@ const Header = () => {
                 {/* theme toggler */}
                 <button
                   aria-label="theme toggler"
-                  onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
                   className="flex items-center justify-center text-body-color duration-300 dark:text-white"
                 >
                   <div className="flex w-40 items-center justify-center rounded-md bg-white px-4 py-[6px] text-center text-base font-medium text-dark shadow-1 transition duration-300 ease-in-out hover:bg-gray-2">
-                    Request Quote
+                    <Link href="https://wa.me/17542659869" target="_blank">
+                      Request Quote
+                    </Link>
                   </div>
                 </button>
               </div>

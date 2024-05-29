@@ -20,7 +20,7 @@ const featuresData: Feature[] = [
     title: "FinancePro",
     paragraph:
       "Take control of your personal finances with our easy-to-use software. Customize it to your liking and enjoy a more organized financial life.",
-    btn: "Learn More",
+    btn: "",
     btnLink: "/#",
   },
   {
@@ -42,7 +42,7 @@ const featuresData: Feature[] = [
     title: "CommerceHub",
     paragraph:
       "Start your own e-commerce venture with a platform that handles everything from product listings to secure checkout processes.",
-    btn: "Learn More",
+    btn: "",
     btnLink: "/#",
   },
   {
@@ -96,7 +96,7 @@ const featuresData: Feature[] = [
     title: "LogiPlan",
     paragraph:
       "Optimize your daily errands or personal projects with our intuitive logistics planner. Ideal for route planning and time management.",
-    btn: "Learn More",
+    btn: "",
     btnLink: "/#",
   },
   {
@@ -129,7 +129,7 @@ const featuresData: Feature[] = [
     ),
     title: "All Essential Integrations",
     paragraph: "Request personalized software integrations.",
-    btn: "Learn More",
+    btn: "",
     btnLink: "/#",
   },
 ];
