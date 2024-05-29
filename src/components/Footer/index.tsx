@@ -18,8 +18,8 @@ const Footer = () => {
                 AbuDigital
               </Link>
               <p className="mb-8 max-w-[270px] text-base text-gray-7">
-                We create digital experiences for brands and companies by using
-                technology.
+                At AbuDigital, we create customized lead generation solutions
+                that enhance business growth and expand market reach.
               </p>
             </div>
           </div>
