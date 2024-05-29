@@ -53,10 +53,13 @@ const Contact = () => {
                       How Can We Help?
                     </h3>
                     <p className="text-base text-body-color dark:text-dark-6">
-                      info@abudigital.xyz
+                      alvaro@abuglobal.io
                     </p>
                     <p className="mt-1 text-base text-body-color dark:text-dark-6">
-                      contact@abudigital.xyz
+                      sales@abuglobal.io
+                    </p>
+                    <p className="mt-1 text-base text-body-color dark:text-dark-6">
+                      +1(754)-265-9869
                     </p>
                   </div>
                 </div>
