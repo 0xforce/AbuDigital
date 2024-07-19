@@ -33,7 +33,7 @@ const Contact = () => {
                       Our Location
                     </h3>
                     <p className="text-base text-body-color dark:text-dark-6">
-                      1603 capitol ave suite 310 cheyenne, Wyoming 82001
+                      104NW 134TH TERRACE BUILDING 16-104 Plantation, FL
                     </p>
                   </div>
                 </div>
@@ -53,10 +53,10 @@ const Contact = () => {
                       How Can We Help?
                     </h3>
                     <p className="text-base text-body-color dark:text-dark-6">
-                      alvaro@abuglobal.io
+                      Support@abudigital.xyz
                     </p>
                     <p className="mt-1 text-base text-body-color dark:text-dark-6">
-                      sales@abuglobal.io
+                      sales@abudigital.xyz
                     </p>
                     <p className="mt-1 text-base text-body-color dark:text-dark-6">
                       +1(754)-265-9869
